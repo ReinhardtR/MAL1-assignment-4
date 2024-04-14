@@ -1,3 +1,4 @@
 # GitHub file size limit 🙃
 *.csv
 *.nc
+.DS_Store
